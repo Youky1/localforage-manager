@@ -1,14 +1,24 @@
 {
   "name": "localforage-manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "为使用 Localforage 的 React 应用提供简便的操作存储内容的页面组件",
   "main": "lib/index.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "youky",
   "license": "ISC",
+  "homepage": "https://github.com/Youky1/localforage-manager",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Youky1/localforage-manager"
+  },
+  "keywords": [
+    "localforage",
+    "react",
+    "manager"
+  ],
   "dependencies": {
     "antd": "^4.20.6",
     "localforage": "^1.10.0",
